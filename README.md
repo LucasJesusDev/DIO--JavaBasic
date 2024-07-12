@@ -1,2 +1,2 @@
 # DIO--JavaBasic
-Projetos Java aprendidos DIO
+Projetos Java basicos do curso DIO
